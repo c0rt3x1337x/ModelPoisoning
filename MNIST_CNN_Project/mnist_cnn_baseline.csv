@@ -1,0 +1,2 @@
+model,dataset,test_accuracy,test_loss
+SimpleCNN,MNIST,0.9899,0.03058825694024563
