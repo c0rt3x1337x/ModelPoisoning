@@ -70,8 +70,7 @@ The primary objectives of this project are:
 
 ## Usage
 
-1. *Training a Multi-Class Classifier:*
-   To train a multi-class classifier on the original data, run:
+1. Open Jupyter Notebook 
    ```bash
     jupyter notebook MNIST_CNN_Baseline.ipynb
 
