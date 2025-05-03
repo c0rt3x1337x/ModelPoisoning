@@ -64,9 +64,15 @@ The primary objectives of this project are:
     cd model-poisoning-multiclass
     
 
-3. Install dependencies:
+3. Create and activate a virtual environment (optional but recommended):
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+4. Install dependencies:
     ```bash
     pip install -r requirements.txt    
+
 
 ## Usage
 
