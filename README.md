@@ -64,24 +64,16 @@ The primary objectives of this project are:
     cd model-poisoning-multiclass
     
 
-3. Create and activate a virtual environment (optional but recommended):
+3. Install dependencies:
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    
-
-4. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    
+    pip install -r requirements.txt    
 
 ## Usage
 
 1. *Training a Multi-Class Classifier:*
    To train a multi-class classifier on the original data, run:
    ```bash
-   python train_classifier.py --dataset dataset.csv --algorithm logistic_regression
-
+    jupyter notebook MNIST_CNN_Baseline.ipynb
 
 ## References
 
