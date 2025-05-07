@@ -6,17 +6,11 @@ This project investigates the concept of *Model Poisoning* in multi-class classi
 
 The foundation of this project is a Convolutional Neural Network (CNN) implemented using PyTorch, trained on the MNIST dataset — a classic multi-class classification problem involving handwritten digit recognition (0–9). Building this baseline enables future work on systematically simulating poisoning attacks and studying their impact on model integrity.
 
-## Motivation and Literature Review
+## Literature Review
 
 Following an in-depth review of key academic literature on data poisoning and model corruption techniques, we constructed this project to bridge theoretical knowledge with practical experimentation. 
 
-Our references include seminal surveys and targeted research on poisoning attacks:
-
-- **Biggio and Roli (2019)** [1]: Provided a comprehensive overview of data poisoning attacks and defense mechanisms, emphasizing the need for a clean baseline before testing adversarial strategies.
-- **Chen et al. (2019)** [2]: Discussed targeted poisoning in transfer learning, inspiring potential future extensions of our work towards misclassification attacks.
-- **Li et al. (2020)** and **Liao et al. (2022)** [3][4]: Focused on hidden backdoors and vulnerabilities during pretraining stages, highlighting risks we aim to explore.
-- **Severi Dataset Benchmark (2021)** [5]: Established evaluation protocols and metrics for poisoned models, which guide our experimental design.
-- Additional studies [6–10]: Focused on backdoor attacks in CNNs, poisoning transferability across datasets, and vulnerabilities in critical systems.
+Our references include seminal surveys and targeted research on poisoning attacks: [References](References.md).
 
 ### Relation to Implementation
 
