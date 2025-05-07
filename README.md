@@ -74,24 +74,4 @@ The primary objectives of this project are:
    ```bash
     jupyter notebook MNIST_CNN_Baseline.ipynb
 
-## References
 
-[1] Biggio, B., & Roli, F. (2019). A Survey on Data Poisoning Attacks and Defenses on Machine Learning. Journal of Machine Learning Research.
-
-[2] Chen, X., Liu, C., Li, B., Ruth, K., & Song, D. (2019). Targeted Poisoning Attacks on Transfer Learning. Proceedings of the IEEE Conference on Artificial Intelligence.
-
-[3] Li, L., Chen, H., et al. (2020). Hidden Backdoors in Human-Centric Applications. International Conference on Machine Learning.
-
-[4] Liao, F., et al. (2022). BadPre: Task-Agnostic Backdoor Pretraining. Neural Computation.
-
-[5] Elenberg, E. R., et al. (2021). The Severi Dataset Poisoning Benchmark. Proceedings of the USENIX Security Symposium.
-
-[6] Chen, K., Yi, J., et al. (2020). Data Poisoning Attacks on Pre-trained Models. Journal of Artificial Intelligence Research
-
-[7] Tian, Y., Zhu, S., et al. (2024). Invisible Backdoors in Image Models. Transactions on Machine Learning.
-
-[8] Shabtai, A., Kravchik, M., & Biggio, B. (2023). Transferring Poisoning Attacks Across Datasets and Architectures. International Workshop on Adversarial Learning.
-
-[9] Exploring Model Poisoning Attack to Convolutional Neural Network Based Brain Tumor Detection Systems (2024). Proceedings of the 25th International Symposium on Quality Electronic Design (ISQED).
-
-[10] Bose, A. J., & Papernot, N. (2020). The Hidden Cost of Malware Defense. IEEE Security & Privacy.
